@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(29, 29, 59);
+}
+
+.container{
+    background-color: black;
+    width: 20%;
+    padding: 38px 40px;
+    margin-left: 40%;
+    margin-top: 47px;
+}
+
+input{
+    padding: 4px 34px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-bottom: 22px;
+    border-color: #cb780f;
+}
+
+.clickbutton{
+    padding: 8px 14px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+}
+
+.operator{
+    padding: 8px 14px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+    background-color:#cb780f ;
+}
+
+#operatoroff{
+    padding: 8px 6px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+    background-color:#cb780f ;
+
+}
+#operatorAC{
+    padding: 8px 6px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+    background-color:#cb780f ;
+}
+#operator-{
+    padding: 8px 16px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+    background-color:#cb780f ;
+}
+#operatorx{
+    padding: 8px 16px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+    background-color:#cb780f ;
+    text-align: center;
+}
+.para{
+    margin-bottom:10px;
+}
+
+/* #div4{
+    margin-top: -52px;
+} */
+#operatorto{
+        padding: 8px 14px;
+        border-radius: 26px;
+        font-size: 20px;
+        border-color: #cb780f;
+        border-style: solid;
+        /* padding-top: 60px; */
+        background-color:#cb780f ;
+    
+}
+#operatordivide{
+    padding: 8px 17px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+    background-color:#cb780f ;
+    
+}
+#operatorpercent{
+    padding: 8px 11px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+}
+
+#operatordot{
+    padding: 8px 17px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+}
+
+#operatoradd{
+    padding: 8px 14px;
+    border-radius: 26px;
+    font-size: 20px;
+    border-color: #cb780f;
+    border-style: solid;
+    background-color:#cb780f ;
+}
+
+
+
+
+
+
